@@ -1,3 +1,18 @@
+/**
+ * file: Lab01.java
+ * author: Anirudh Nagulapalli
+ * course: MSCS630
+ * Lab: Lab01
+ * due date: Jan 25, 2017
+ * version: 1.8
+ *
+ * This file contains the logic to convert plain
+ * text to cyphertext where text is converted
+ * to numbers
+ */
+
+
+
 import java.util.Scanner;
 
 public class Lab01{
